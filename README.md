@@ -1,1 +1,1 @@
-# Descriptive_Analytics_for_Sales_Company
+# Exploratory_Analysis_for_Sales_Company
