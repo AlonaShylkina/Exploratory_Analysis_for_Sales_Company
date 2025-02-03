@@ -9,6 +9,7 @@ This repository contains a project focused on performing **Exploratory Data Anal
 - [Dataset](#dataset)
 - [Environment](#environment)
 - [Results](#results)
+- [Conclusions](#conclusions)
 
 ---
 
