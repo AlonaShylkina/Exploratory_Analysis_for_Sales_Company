@@ -75,6 +75,8 @@ When looking at orders over the years, we observe a significant increase in Snac
 
 An interesting fact is that the company receives the most orders on weekends.
 
+---
+
 ## Conclusions
 It is important to continue developing online sales and consider expanding the company’s presence in Asian countries, as well as entering the North and South American markets.
 Although there is no correlation between profit and order processing time, the company should implement a faster workflow system. Reducing processing and shipping times is always a good practice.
